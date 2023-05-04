@@ -1,2 +1,4 @@
-package org.example;public class Helper {
+package org.example;
+
+public class Helper {
 }
